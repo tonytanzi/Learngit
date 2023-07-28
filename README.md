@@ -1,2 +1,2 @@
 # Learngit
-Leaarning the theory of git
+Learning the theory of git
